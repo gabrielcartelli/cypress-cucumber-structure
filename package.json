@@ -1,0 +1,21 @@
+{
+  "name": "cypress-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:chrome": "cypress run --browser chrome",
+    "test:one": "cypress-tags run -e TAGS=@one",
+    "test:two": "cypress-tags run -e TAGS=@two --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.3.1",
+    "cypress-cucumber-preprocessor": "^1.11.2"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/support/steps"
+  }
+}

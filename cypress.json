@@ -1,0 +1,6 @@
+{
+    "viewportWidth": 1024,
+    "viewportHeight": 768,
+    "baseUrl": "https://www.google.com.br",
+    "defaultCommandTimeout": 60000
+}
