@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "cypress run",
-    "test:chrome": "cypress run --browser chrome",
+    "test:chrome": "cypress run --browser chrome --no-exit",
     "test:one": "cypress-tags run -e TAGS=@one",
     "test:two": "cypress-tags run -e TAGS=@two --browser chrome"
   },
