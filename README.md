@@ -7,4 +7,4 @@ Configurar o Ambiente:
 3. Instalar o Cypress com Cucumber executando o seguinte comando na raíz da pasta do seu projeto: 
     npm install --save-dev cypress-cucumber-preprocessor
 
-Tutorial completo de utilização do Cypress com Cucumber: link.
+Tutorial completo de utilização do Cypress com Cucumber: https://medium.com/@cartelli.gf/testes-automatizados-com-cypress-e-cucumber-d78b211da766.
