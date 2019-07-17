@@ -1,5 +1,5 @@
 # cypress-structure
-<h1>Estrutra de projeto utilizando Cypress com Cucumber</h1>
+<h2>Estrutra de projeto utilizando Cypress com Cucumber</h2>
 
 <b>Para configurar o Ambiente:</b>
 1. Instalar Node.js.
