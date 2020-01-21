@@ -1,7 +1,7 @@
 {
   "name": "cypress-structure",
   "version": "1.0.0",
-  "description": "",
+  "description": "Modelo de teste usando Cypress e Cocumber",
   "main": "index.js",
   "scripts": {
     "cypress:open": "cypress open",
