@@ -1,6 +1,7 @@
 {
-    "viewportWidth": 1024,
-    "viewportHeight": 768,
-    "defaultCommandTimeout": 10000,
-    "baseUrl": "https://cwi.com.br/"
+  "viewportWidth": 1024,
+  "viewportHeight": 768,
+  "defaultCommandTimeout": 10000,
+  "baseUrl": "https://cwi.com.br/",
+  "projectId": "2bedrf"
 }
